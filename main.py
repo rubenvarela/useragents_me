@@ -68,7 +68,7 @@ repo = g.get_repo("rubenvarela/useragents_me")
 # Let's format things and output them
 for ua in uas.keys():
     df = pd.concat(uas[ua])
-    path = f"data/{date.year}/{date.month:02}/{date.strftime("%Y-%m-%d")}--{ua}.json"
+    path = f"data/{date.year}/{date.month:02}/{date.strftime('%Y-%m-%d')}--{ua}.json"
 
     data = df.to_json(orient="records", indent=4)
 
