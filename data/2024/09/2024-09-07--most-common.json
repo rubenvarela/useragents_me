@@ -1,0 +1,275 @@
+[
+    {
+        "share":33.33,
+        "os + browser":"Chrome 127.0.0, Mac OS X",
+        "useragent":"Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/127.0.0.0 Safari\/537.3",
+        "section":" Most Common Desktop Useragents",
+        "device":null
+    },
+    {
+        "share":24.67,
+        "os + browser":"Chrome 128.0.0, Windows",
+        "useragent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/128.0.0.0 Safari\/537.3",
+        "section":" Most Common Desktop Useragents",
+        "device":null
+    },
+    {
+        "share":15.75,
+        "os + browser":"Chrome 127.0.0, Windows",
+        "useragent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/127.0.0.0 Safari\/537.3",
+        "section":" Most Common Desktop Useragents",
+        "device":null
+    },
+    {
+        "share":7.87,
+        "os + browser":"Edge 128.0.0, Windows",
+        "useragent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/128.0.0.0 Safari\/537.36 Edg\/128.0.0.",
+        "section":" Most Common Desktop Useragents",
+        "device":null
+    },
+    {
+        "share":5.77,
+        "os + browser":"Other , Windows",
+        "useragent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko\/20100101 Firefox\/129.",
+        "section":" Most Common Desktop Useragents",
+        "device":null
+    },
+    {
+        "share":2.1,
+        "os + browser":"Chrome 109.0.0, Windows",
+        "useragent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/109.0.0.0 Safari\/537.3",
+        "section":" Most Common Desktop Useragents",
+        "device":null
+    },
+    {
+        "share":1.57,
+        "os + browser":"Edge 126.0.0, Windows",
+        "useragent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/126.0.0.0 Safari\/537.36 Edg\/126.0.0.",
+        "section":" Most Common Desktop Useragents",
+        "device":null
+    },
+    {
+        "share":1.57,
+        "os + browser":"Opera 112.0.0, Windows",
+        "useragent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/126.0.0.0 Safari\/537.36 OPR\/112.0.0.",
+        "section":" Most Common Desktop Useragents",
+        "device":null
+    },
+    {
+        "share":1.05,
+        "os + browser":"Edge 127.0.0, Windows",
+        "useragent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/127.0.0.0 Safari\/537.36 Edg\/127.0.0.",
+        "section":" Most Common Desktop Useragents",
+        "device":null
+    },
+    {
+        "share":1.05,
+        "os + browser":"Edge 124.0.0, Windows",
+        "useragent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/124.0.0.0 Safari\/537.36 Edg\/124.0.0.",
+        "section":" Most Common Desktop Useragents",
+        "device":null
+    },
+    {
+        "share":0.52,
+        "os + browser":"Edge 125.0.0, Windows",
+        "useragent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/125.0.0.0 Safari\/537.36 Edg\/125.0.0.",
+        "section":" Most Common Desktop Useragents",
+        "device":null
+    },
+    {
+        "share":0.52,
+        "os + browser":"Other , Linux",
+        "useragent":"Mozilla\/5.0 (X11; Linux x86_64; rv:109.0) Gecko\/20100101 Firefox\/113.",
+        "section":" Most Common Desktop Useragents",
+        "device":null
+    },
+    {
+        "share":0.52,
+        "os + browser":"Other , Ubuntu",
+        "useragent":"Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko\/20100101 Firefox\/129.",
+        "section":" Most Common Desktop Useragents",
+        "device":null
+    },
+    {
+        "share":0.52,
+        "os + browser":"Chrome 128.0.0, Linux",
+        "useragent":"Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/128.0.0.0 Safari\/537.3",
+        "section":" Most Common Desktop Useragents",
+        "device":null
+    },
+    {
+        "share":0.52,
+        "os + browser":"Other , Windows",
+        "useragent":"Mozilla\/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko\/20100101 Firefox\/115.",
+        "section":" Most Common Desktop Useragents",
+        "device":null
+    },
+    {
+        "share":0.52,
+        "os + browser":"Edge 109.0.1518, Windows",
+        "useragent":"Mozilla\/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/109.0.0.0 Safari\/537.36 Edg\/109.0.1518.14",
+        "section":" Most Common Desktop Useragents",
+        "device":null
+    },
+    {
+        "share":0.52,
+        "os + browser":"Edge 109.0.1518, Windows",
+        "useragent":"Mozilla\/5.0 (Windows NT 6.1) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/109.0.0.0 Safari\/537.36 Edg\/109.0.1518.10",
+        "section":" Most Common Desktop Useragents",
+        "device":null
+    },
+    {
+        "share":0.52,
+        "os + browser":"Other , Windows",
+        "useragent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko\/20100101 Firefox\/128.",
+        "section":" Most Common Desktop Useragents",
+        "device":null
+    },
+    {
+        "share":0.52,
+        "os + browser":"Other , Windows",
+        "useragent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko\/20100101 Firefox\/115.",
+        "section":" Most Common Desktop Useragents",
+        "device":null
+    },
+    {
+        "share":0.52,
+        "os + browser":"Chrome 121.0.0, Windows",
+        "useragent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/121.0.0.0 Safari\/537.3",
+        "section":" Most Common Desktop Useragents",
+        "device":null
+    },
+    {
+        "share":32.77,
+        "os + browser":"Chrome Mobile, Android",
+        "useragent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/127.0.0.0 Mobile Safari\/537.3",
+        "section":" Most Common Mobile Useragents",
+        "device":"K (more info...)"
+    },
+    {
+        "share":20.17,
+        "os + browser":"Chrome Mobile, Android",
+        "useragent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/128.0.0.0 Mobile Safari\/537.3",
+        "section":" Most Common Mobile Useragents",
+        "device":"K (more info...)"
+    },
+    {
+        "share":15.13,
+        "os + browser":"Mobile Safari, iOS",
+        "useragent":"Mozilla\/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/17.5 Mobile\/15E148 Safari\/604.",
+        "section":" Most Common Mobile Useragents",
+        "device":"iPhone"
+    },
+    {
+        "share":7.56,
+        "os + browser":"Samsung Internet, Android",
+        "useragent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/25.0 Chrome\/121.0.0.0 Mobile Safari\/537.3",
+        "section":" Most Common Mobile Useragents",
+        "device":"K (more info...)"
+    },
+    {
+        "share":3.36,
+        "os + browser":"Google, iOS",
+        "useragent":"Mozilla\/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) GSA\/331.0.665236494 Mobile\/15E148 Safari\/604.",
+        "section":" Most Common Mobile Useragents",
+        "device":"iPhone"
+    },
+    {
+        "share":2.52,
+        "os + browser":"Opera Mobile, Android",
+        "useragent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/126.0.0.0 Mobile Safari\/537.36 OPR\/83.0.0.",
+        "section":" Most Common Mobile Useragents",
+        "device":"K (more info...)"
+    },
+    {
+        "share":2.52,
+        "os + browser":"Mobile Safari, iOS",
+        "useragent":"Mozilla\/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/17.6 Mobile\/15E148 Safari\/604.",
+        "section":" Most Common Mobile Useragents",
+        "device":"iPhone"
+    },
+    {
+        "share":2.52,
+        "os + browser":"Samsung Internet, Android",
+        "useragent":"Mozilla\/5.0 (Linux; Android 13; SAMSUNG SM-G780G) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/20.0 Chrome\/106.0.5249.126 Mobile Safari\/537.3",
+        "section":" Most Common Mobile Useragents",
+        "device":"Samsung SM-G780G"
+    },
+    {
+        "share":1.68,
+        "os + browser":"Google, iOS",
+        "useragent":"Mozilla\/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) GSA\/330.0.663358993 Mobile\/15E148 Safari\/604.",
+        "section":" Most Common Mobile Useragents",
+        "device":"iPhone"
+    },
+    {
+        "share":1.68,
+        "os + browser":"Samsung Internet, Android",
+        "useragent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/26.0 Chrome\/122.0.0.0 Mobile Safari\/537.3",
+        "section":" Most Common Mobile Useragents",
+        "device":"K (more info...)"
+    },
+    {
+        "share":1.68,
+        "os + browser":"Google, iOS",
+        "useragent":"Mozilla\/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) GSA\/293.0.586189917 Mobile\/15E148 Safari\/604.",
+        "section":" Most Common Mobile Useragents",
+        "device":"iPhone"
+    },
+    {
+        "share":1.68,
+        "os + browser":"Chrome Mobile iOS, iOS",
+        "useragent":"Mozilla\/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) CriOS\/128.0.6613.92 Mobile\/15E148 Safari\/604.",
+        "section":" Most Common Mobile Useragents",
+        "device":"iPhone"
+    },
+    {
+        "share":1.68,
+        "os + browser":"Mobile Safari, iOS",
+        "useragent":"Mozilla\/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/16.6 Mobile\/15E148 Safari\/604.",
+        "section":" Most Common Mobile Useragents",
+        "device":"iPhone"
+    },
+    {
+        "share":0.84,
+        "os + browser":"Mobile Safari, iOS",
+        "useragent":"Mozilla\/5.0 (iPhone; CPU iPhone OS 16_2 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/16.2 Mobile\/15E148 Safari\/604.",
+        "section":" Most Common Mobile Useragents",
+        "device":"iPhone"
+    },
+    {
+        "share":0.84,
+        "os + browser":"Google, iOS",
+        "useragent":"Mozilla\/5.0 (iPhone; CPU iPhone OS 17_6 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) GSA\/330.0.663358993 Mobile\/15E148 Safari\/604.",
+        "section":" Most Common Mobile Useragents",
+        "device":"iPhone"
+    },
+    {
+        "share":0.84,
+        "os + browser":"Mobile Safari, iOS",
+        "useragent":"Mozilla\/5.0 (iPhone; CPU iPhone OS 16_7_7 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/16.6 Mobile\/15E148 Safari\/604.",
+        "section":" Most Common Mobile Useragents",
+        "device":"iPhone"
+    },
+    {
+        "share":0.84,
+        "os + browser":"Mobile Safari, iOS",
+        "useragent":"Mozilla\/5.0 (iPhone; CPU iPhone OS 16_7_10 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/16.6 Mobile\/15E148 Safari\/604.",
+        "section":" Most Common Mobile Useragents",
+        "device":"iPhone"
+    },
+    {
+        "share":0.84,
+        "os + browser":"Chrome, Android",
+        "useragent":"Mozilla\/5.0 (Linux; Android 10; MED-LX9N; HMSCore 6.14.0.301) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/99.0.4844.88 HuaweiBrowser\/14.0.5.302 Mobile Safari\/537.3",
+        "section":" Most Common Mobile Useragents",
+        "device":"Huawei Browser"
+    },
+    {
+        "share":0.84,
+        "os + browser":"Chrome Mobile, Android",
+        "useragent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/120.0.0.0 Mobile Safari\/537.3",
+        "section":" Most Common Mobile Useragents",
+        "device":"K (more info...)"
+    }
+]
