@@ -1,0 +1,266 @@
+[
+    {
+        "os + browser":"Chrome 129.0.0, Windows 10\/11",
+        "useragent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.0.0 Safari\/537.36",
+        "section":" Latest Windows Desktop Useragents",
+        "device":null
+    },
+    {
+        "os + browser":"Edge 129.0.2792, Windows 10\/11",
+        "useragent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.0.0 Safari\/537.36 Edg\/129.0.2792.65",
+        "section":" Latest Windows Desktop Useragents",
+        "device":null
+    },
+    {
+        "os + browser":"Edge 44.18363.8131, Windows 10\/11",
+        "useragent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64; Xbox; Xbox One) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.0.0 Safari\/537.36 Edge\/44.18363.8131",
+        "section":" Latest Windows Desktop Useragents",
+        "device":null
+    },
+    {
+        "os + browser":"Firefox 130.0, Windows 10\/11",
+        "useragent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko\/20100101 Firefox\/130.0",
+        "section":" Latest Windows Desktop Useragents",
+        "device":null
+    },
+    {
+        "os + browser":"Firefox 128.0, Windows 10\/11",
+        "useragent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko\/20100101 Firefox\/128.0",
+        "section":" Latest Windows Desktop Useragents",
+        "device":null
+    },
+    {
+        "os + browser":"Opera 114.0.0, Windows 10\/11",
+        "useragent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.0.0 Safari\/537.36 OPR\/114.0.0.0",
+        "section":" Latest Windows Desktop Useragents",
+        "device":null
+    },
+    {
+        "os + browser":"Opera 114.0.0, Windows 10\/11",
+        "useragent":"Mozilla\/5.0 (Windows NT 10.0; WOW64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.0.0 Safari\/537.36 OPR\/114.0.0.0",
+        "section":" Latest Windows Desktop Useragents",
+        "device":null
+    },
+    {
+        "os + browser":"Chrome 129.0.0, Mac OS X 10.15.7",
+        "useragent":"Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.0.0 Safari\/537.36",
+        "section":" Latest Mac OS X Desktop Useragents",
+        "device":null
+    },
+    {
+        "os + browser":"Edge 129.0.2792, Mac OS X 10.15.7",
+        "useragent":"Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.0.0 Safari\/537.36 Edg\/129.0.2792.65",
+        "section":" Latest Mac OS X Desktop Useragents",
+        "device":null
+    },
+    {
+        "os + browser":"Firefox 130.0, Mac OS X 14.7",
+        "useragent":"Mozilla\/5.0 (Macintosh; Intel Mac OS X 14.7; rv:130.0) Gecko\/20100101 Firefox\/130.0",
+        "section":" Latest Mac OS X Desktop Useragents",
+        "device":null
+    },
+    {
+        "os + browser":"Firefox 128.0, Mac OS X 14.7",
+        "useragent":"Mozilla\/5.0 (Macintosh; Intel Mac OS X 14.7; rv:128.0) Gecko\/20100101 Firefox\/128.0",
+        "section":" Latest Mac OS X Desktop Useragents",
+        "device":null
+    },
+    {
+        "os + browser":"Safari 18.0, Mac OS X 14.7",
+        "useragent":"Mozilla\/5.0 (Macintosh; Intel Mac OS X 14_7) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/18.0 Safari\/605.1.15",
+        "section":" Latest Mac OS X Desktop Useragents",
+        "device":null
+    },
+    {
+        "os + browser":"Opera 114.0.0, Mac OS X 14.7",
+        "useragent":"Mozilla\/5.0 (Macintosh; Intel Mac OS X 14_7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.0.0 Safari\/537.36 OPR\/114.0.0.0",
+        "section":" Latest Mac OS X Desktop Useragents",
+        "device":null
+    },
+    {
+        "os + browser":"Chrome 129.0.0, Linux",
+        "useragent":"Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.0.0 Safari\/537.36",
+        "section":" Latest Linux Desktop Useragents",
+        "device":null
+    },
+    {
+        "os + browser":"Firefox 130.0, Linux",
+        "useragent":"Mozilla\/5.0 (X11; Linux i686; rv:130.0) Gecko\/20100101 Firefox\/130.0",
+        "section":" Latest Linux Desktop Useragents",
+        "device":null
+    },
+    {
+        "os + browser":"Firefox 130.0, Linux",
+        "useragent":"Mozilla\/5.0 (X11; Linux x86_64; rv:130.0) Gecko\/20100101 Firefox\/130.0",
+        "section":" Latest Linux Desktop Useragents",
+        "device":null
+    },
+    {
+        "os + browser":"Firefox 130.0, Ubuntu",
+        "useragent":"Mozilla\/5.0 (X11; Ubuntu; Linux i686; rv:130.0) Gecko\/20100101 Firefox\/130.0",
+        "section":" Latest Linux Desktop Useragents",
+        "device":null
+    },
+    {
+        "os + browser":"Firefox 130.0, Ubuntu",
+        "useragent":"Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:130.0) Gecko\/20100101 Firefox\/130.0",
+        "section":" Latest Linux Desktop Useragents",
+        "device":null
+    },
+    {
+        "os + browser":"Firefox 130.0, Fedora",
+        "useragent":"Mozilla\/5.0 (X11; Fedora; Linux x86_64; rv:130.0) Gecko\/20100101 Firefox\/130.0",
+        "section":" Latest Linux Desktop Useragents",
+        "device":null
+    },
+    {
+        "os + browser":"Firefox 128.0, Linux",
+        "useragent":"Mozilla\/5.0 (X11; Linux i686; rv:128.0) Gecko\/20100101 Firefox\/128.0",
+        "section":" Latest Linux Desktop Useragents",
+        "device":null
+    },
+    {
+        "os + browser":"Firefox 128.0, Ubuntu",
+        "useragent":"Mozilla\/5.0 (X11; Ubuntu; Linux i686; rv:128.0) Gecko\/20100101 Firefox\/128.0",
+        "section":" Latest Linux Desktop Useragents",
+        "device":null
+    },
+    {
+        "os + browser":"Firefox 128.0, Ubuntu",
+        "useragent":"Mozilla\/5.0 (X11; Ubuntu; Linux x86_64; rv:128.0) Gecko\/20100101 Firefox\/128.0",
+        "section":" Latest Linux Desktop Useragents",
+        "device":null
+    },
+    {
+        "os + browser":"Firefox 128.0, Fedora",
+        "useragent":"Mozilla\/5.0 (X11; Fedora; Linux x86_64; rv:128.0) Gecko\/20100101 Firefox\/128.0",
+        "section":" Latest Linux Desktop Useragents",
+        "device":null
+    },
+    {
+        "os + browser":"Opera 114.0.0, Linux",
+        "useragent":"Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.0.0 Safari\/537.36 OPR\/114.0.0.0",
+        "section":" Latest Linux Desktop Useragents",
+        "device":null
+    },
+    {
+        "os + browser":"Chrome Mobile iOS 129.0.6668, iOS 17.7",
+        "useragent":"Mozilla\/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) CriOS\/129.0.6668.69 Mobile\/15E148 Safari\/604.1",
+        "section":" Latest iPhone Useragents",
+        "device":"iPhone"
+    },
+    {
+        "os + browser":"Edge Mobile 129.2792.58, iOS 17.7",
+        "useragent":"Mozilla\/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/18.0 EdgiOS\/129.2792.58 Mobile\/15E148 Safari\/605.1.15",
+        "section":" Latest iPhone Useragents",
+        "device":"iPhone"
+    },
+    {
+        "os + browser":"Firefox iOS 130.0, iOS 14.7",
+        "useragent":"Mozilla\/5.0 (iPhone; CPU iPhone OS 14_7 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) FxiOS\/130.0 Mobile\/15E148 Safari\/605.1.15",
+        "section":" Latest iPhone Useragents",
+        "device":"iPhone"
+    },
+    {
+        "os + browser":"Mobile Safari 18.0, iOS 17.7",
+        "useragent":"Mozilla\/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/18.0 Mobile\/15E148 Safari\/604.1",
+        "section":" Latest iPhone Useragents",
+        "device":"iPhone"
+    },
+    {
+        "os + browser":"Chrome Mobile iOS 129.0.6668, iOS 17.7",
+        "useragent":"Mozilla\/5.0 (iPod; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) CriOS\/129.0.6668.69 Mobile\/15E148 Safari\/604.1",
+        "section":" Latest iPod Useragents",
+        "device":"iPod"
+    },
+    {
+        "os + browser":"Firefox iOS 130.0, iOS 14.7",
+        "useragent":"Mozilla\/5.0 (iPod touch; CPU iPhone OS 14_7 like Mac OS X) AppleWebKit\/604.5.6 (KHTML, like Gecko) FxiOS\/130.0 Mobile\/15E148 Safari\/605.1.15",
+        "section":" Latest iPod Useragents",
+        "device":"iPod"
+    },
+    {
+        "os + browser":"Mobile Safari 18.0, iOS 17.7",
+        "useragent":"Mozilla\/5.0 (iPod touch; CPU iPhone 17_7 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/18.0 Mobile\/15E148 Safari\/604.1",
+        "section":" Latest iPod Useragents",
+        "device":"iPod"
+    },
+    {
+        "os + browser":"Firefox iOS 130.0, iOS 14.7",
+        "useragent":"Mozilla\/5.0 (iPad; CPU OS 14_7 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) FxiOS\/130.0 Mobile\/15E148 Safari\/605.1.15",
+        "section":" Latest iPad Useragents",
+        "device":"iPad"
+    },
+    {
+        "os + browser":"Mobile Safari 18.0, iOS 17.7",
+        "useragent":"Mozilla\/5.0 (iPad; CPU OS 17_7 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/18.0 Mobile\/15E148 Safari\/604.1",
+        "section":" Latest iPad Useragents",
+        "device":"iPad"
+    },
+    {
+        "os + browser":"Chrome Mobile 129.0.6668, Android 10",
+        "useragent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.6668.69 Mobile Safari\/537.36",
+        "section":" Latest Android Mobile Useragents",
+        "device":"K"
+    },
+    {
+        "os + browser":"Edge Mobile 129.0.2792, Android 10",
+        "useragent":"Mozilla\/5.0 (Linux; Android 10; HD1913) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.6668.69 Mobile Safari\/537.36 EdgA\/129.0.2792.65",
+        "section":" Latest Android Mobile Useragents",
+        "device":"OnePlus HD1913"
+    },
+    {
+        "os + browser":"Edge Mobile 129.0.2792, Android 10",
+        "useragent":"Mozilla\/5.0 (Linux; Android 10; SM-G973F) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.6668.69 Mobile Safari\/537.36 EdgA\/129.0.2792.65",
+        "section":" Latest Android Mobile Useragents",
+        "device":"Samsung SM-G973F"
+    },
+    {
+        "os + browser":"Edge Mobile 129.0.2792, Android 10",
+        "useragent":"Mozilla\/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.6668.69 Mobile Safari\/537.36 EdgA\/129.0.2792.65",
+        "section":" Latest Android Mobile Useragents",
+        "device":"Pixel 3 XL"
+    },
+    {
+        "os + browser":"Edge Mobile 129.0.2792, Android 10",
+        "useragent":"Mozilla\/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.6668.69 Mobile Safari\/537.36 EdgA\/129.0.2792.65",
+        "section":" Latest Android Mobile Useragents",
+        "device":"OnePlus ONEPLUS A6003"
+    },
+    {
+        "os + browser":"Chrome Mobile 129.0.0, Android 10.0",
+        "useragent":"Mozilla\/5.0 (Windows Mobile 10; Android 10.0; Microsoft; Lumia 950XL) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.0.0 Mobile Safari\/537.36 Edge\/40.15254.603",
+        "section":" Latest Android Mobile Useragents",
+        "device":"Lumia 950XL"
+    },
+    {
+        "os + browser":"Firefox Mobile 130.0, Android 15",
+        "useragent":"Mozilla\/5.0 (Android 15; Mobile; rv:130.0) Gecko\/130.0 Firefox\/130.0",
+        "section":" Latest Android Mobile Useragents",
+        "device":"Generic Smartphone"
+    },
+    {
+        "os + browser":"Firefox Mobile 130.0, Android 15",
+        "useragent":"Mozilla\/5.0 (Android 15; Mobile; LG-M255; rv:130.0) Gecko\/130.0 Firefox\/130.0",
+        "section":" Latest Android Mobile Useragents",
+        "device":"LG-M255"
+    },
+    {
+        "os + browser":"Opera Mobile 76.2.4027, Android 10",
+        "useragent":"Mozilla\/5.0 (Linux; Android 10; VOG-L29) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.6668.69 Mobile Safari\/537.36 OPR\/76.2.4027.73374",
+        "section":" Latest Android Mobile Useragents",
+        "device":"Huawei VOG-L29"
+    },
+    {
+        "os + browser":"Opera Mobile 76.2.4027, Android 10",
+        "useragent":"Mozilla\/5.0 (Linux; Android 10; SM-G970F) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.6668.69 Mobile Safari\/537.36 OPR\/76.2.4027.73374",
+        "section":" Latest Android Mobile Useragents",
+        "device":"Samsung SM-G970F"
+    },
+    {
+        "os + browser":"Opera Mobile 76.2.4027, Android 10",
+        "useragent":"Mozilla\/5.0 (Linux; Android 10; SM-N975F) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.6668.69 Mobile Safari\/537.36 OPR\/76.2.4027.73374",
+        "section":" Latest Android Mobile Useragents",
+        "device":"Samsung SM-N975F"
+    }
+]
