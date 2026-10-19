@@ -15,9 +15,10 @@ Scraping the site's content to keep things working for now.
 
 r1 = requests.get('https://www.useragents.me/')
 
-id_blocklist = [
-    "latest-tablet-useragents",
-]
+id_blocklist = []
+
+# The site's ids no longer carry a "most-common" prefix on its top sections.
+most_common_ids = ["desktop", "mobile", "tablet", "bots"]
 
 # Let's get the table containers.
 soup = BeautifulSoup(r1.content, features="lxml")
@@ -41,8 +42,16 @@ for container in containers:
     df = pd.read_html(io.StringIO(f"{table}"))[0]
     df['section'] = title.text
 
+    # The id used to live on the <h2>, it is now on the wrapping <section>.
+    section_id = (title.attrs.get('id') or container.attrs.get('id') or '').strip()
+    if section_id in most_common_ids:
+        section_id = f"most-common-{section_id}"
+    if not section_id:
+        print(f"Skipping section without an id: {title.text.strip()!r}")
+        continue
+
     for ua in ua_types:
-        if title.attrs['id'] not in id_blocklist and title.attrs['id'].strip().startswith(ua):
+        if section_id not in id_blocklist and section_id.startswith(ua):
             if ua not in uas.keys():
                 uas[ua] = []
 
