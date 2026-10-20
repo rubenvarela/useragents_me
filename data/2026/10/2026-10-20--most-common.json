@@ -1,0 +1,642 @@
+[
+    {
+        "User agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/120.0.0.0 Safari\/537.36",
+        "Frequency":20.79,
+        "OS":"Windows 10\/11",
+        "Browser":"Chrome 120.0.0.0",
+        "section":"Most Common Desktop User Agents",
+        "Device":null
+    },
+    {
+        "User agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/131.0.0.0 Safari\/537.36",
+        "Frequency":14.33,
+        "OS":"Windows 10\/11",
+        "Browser":"Chrome 131.0.0.0",
+        "section":"Most Common Desktop User Agents",
+        "Device":null
+    },
+    {
+        "User agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36",
+        "Frequency":14.05,
+        "OS":"Windows 10\/11",
+        "Browser":null,
+        "section":"Most Common Desktop User Agents",
+        "Device":null
+    },
+    {
+        "User agent":"Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/131.0.0.0 Safari\/537.36",
+        "Frequency":7.25,
+        "OS":"Mac 10.15.7",
+        "Browser":"Chrome 131.0.0.0",
+        "section":"Most Common Desktop User Agents",
+        "Device":null
+    },
+    {
+        "User agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) Chrome\/120.0.0.0",
+        "Frequency":5.51,
+        "OS":"Windows 10\/11",
+        "Browser":null,
+        "section":"Most Common Desktop User Agents",
+        "Device":null
+    },
+    {
+        "User agent":"Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/17.6 Safari\/605.1.15",
+        "Frequency":5.32,
+        "OS":"Mac 10.15.7",
+        "Browser":"Safari 17.6",
+        "section":"Most Common Desktop User Agents",
+        "Device":null
+    },
+    {
+        "User agent":"Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/17.5 Safari\/605.1.15",
+        "Frequency":5.21,
+        "OS":"Mac 10.15.7",
+        "Browser":"Safari 17.5",
+        "section":"Most Common Desktop User Agents",
+        "Device":null
+    },
+    {
+        "User agent":"Mozilla\/5.0 (Windows NT 6.1; WOW64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/30.0.1599.101",
+        "Frequency":2.53,
+        "OS":"Windows 7",
+        "Browser":null,
+        "section":"Most Common Desktop User Agents",
+        "Device":null
+    },
+    {
+        "User agent":"Mozilla\/5.0 (Windows NT 6.1; WOW64; rv:34.0) Gecko\/20100101 Firefox\/34.0",
+        "Frequency":2.53,
+        "OS":"Windows 7",
+        "Browser":"Firefox 34.0",
+        "section":"Most Common Desktop User Agents",
+        "Device":null
+    },
+    {
+        "User agent":"Mozilla\/5.0 (Windows NT 6.1; WOW64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/38.0.2125.122",
+        "Frequency":2.44,
+        "OS":"Windows 7",
+        "Browser":null,
+        "section":"Most Common Desktop User Agents",
+        "Device":null
+    },
+    {
+        "User agent":"Mozilla\/5.0 (Windows NT 6.1; WOW64) AppleWebKit\/537.1 (KHTML, like Gecko) Chrome\/21.0.1180.71",
+        "Frequency":2.44,
+        "OS":"Windows 7",
+        "Browser":null,
+        "section":"Most Common Desktop User Agents",
+        "Device":null
+    },
+    {
+        "User agent":"Mozilla\/5.0 (Windows NT 6.1; WOW64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/39.0.2171.95",
+        "Frequency":2.42,
+        "OS":"Windows 7",
+        "Browser":null,
+        "section":"Most Common Desktop User Agents",
+        "Device":null
+    },
+    {
+        "User agent":"Mozilla\/5.0 (Windows NT 6.1; WOW64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/39.0.2171.71",
+        "Frequency":2.39,
+        "OS":"Windows 7",
+        "Browser":null,
+        "section":"Most Common Desktop User Agents",
+        "Device":null
+    },
+    {
+        "User agent":"Mozilla\/5.0 (Windows NT 5.1; U; en; rv:1.8.1) Gecko\/20061208 Firefox\/2.0.0 Opera 9.50",
+        "Frequency":2.37,
+        "OS":"Windows XP",
+        "Browser":"Opera 9.50",
+        "section":"Most Common Desktop User Agents",
+        "Device":null
+    },
+    {
+        "User agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/151.0.0.0 Safari\/537.36",
+        "Frequency":1.83,
+        "OS":"Windows 10\/11",
+        "Browser":"Chrome 151.0.0.0",
+        "section":"Most Common Desktop User Agents",
+        "Device":null
+    },
+    {
+        "User agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/155.0.0.0 Safari\/537.36",
+        "Frequency":1.8,
+        "OS":"Windows 10\/11",
+        "Browser":"Chrome 155.0.0.0",
+        "section":"Most Common Desktop User Agents",
+        "Device":null
+    },
+    {
+        "User agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/153.0.0.0 Safari\/537.36 Edg\/153.0.0.0",
+        "Frequency":1.75,
+        "OS":"Windows 10\/11",
+        "Browser":"Microsoft Edge 153.0.0.0",
+        "section":"Most Common Desktop User Agents",
+        "Device":null
+    },
+    {
+        "User agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/78.0.3904.108 Safari\/537.36",
+        "Frequency":1.74,
+        "OS":"Windows 10\/11",
+        "Browser":"Chrome 78.0.3904.108",
+        "section":"Most Common Desktop User Agents",
+        "Device":null
+    },
+    {
+        "User agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/126.0.0.0 Safari\/537.36",
+        "Frequency":1.7,
+        "OS":"Windows 10\/11",
+        "Browser":"Chrome 126.0.0.0",
+        "section":"Most Common Desktop User Agents",
+        "Device":null
+    },
+    {
+        "User agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Safari\/537.36",
+        "Frequency":1.57,
+        "OS":"Windows 10\/11",
+        "Browser":"Chrome 137.0.0.0",
+        "section":"Most Common Desktop User Agents",
+        "Device":null
+    },
+    {
+        "User agent":"Mozilla\/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/13.0.3 Mobile\/15E148 Safari\/604.1",
+        "Frequency":38.23,
+        "OS":"iOS 13.2.3",
+        "Browser":"Mobile Safari 13.0.3",
+        "section":"Most Common Mobile User Agents",
+        "Device":"iPhone"
+    },
+    {
+        "User agent":"Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/26.6.1 Mobile\/15E148 Safari\/604.1",
+        "Frequency":9.09,
+        "OS":"iOS 26.6.1",
+        "Browser":"Mobile Safari 26.6.1",
+        "section":"Most Common Mobile User Agents",
+        "Device":"iPhone"
+    },
+    {
+        "User agent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/154.0.0.0 Mobile Safari\/537.36",
+        "Frequency":7.4,
+        "OS":"Android 10",
+        "Browser":"Chrome Mobile 154.0.0.0",
+        "section":"Most Common Mobile User Agents",
+        "Device":"K"
+    },
+    {
+        "User agent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/155.0.0.0 Mobile Safari\/537.36",
+        "Frequency":6.82,
+        "OS":"Android 10",
+        "Browser":"Chrome Mobile 155.0.0.0",
+        "section":"Most Common Mobile User Agents",
+        "Device":"K"
+    },
+    {
+        "User agent":"Mozilla\/5.0 (Linux; Android 5.0.1; SGH-I337M Build\/LRX22C) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.93 Mobile Safari\/537.36",
+        "Frequency":4.83,
+        "OS":"Android 5.0.1",
+        "Browser":"Chrome Mobile 43.0.2357.93",
+        "section":"Most Common Mobile User Agents",
+        "Device":"SGH-I337M"
+    },
+    {
+        "User agent":"Mozlila\/5.0 (Linux; Android 7.0; SM-G892A Bulid\/NRD90M; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/60.0.3112.107 Moblie Safari\/537.36",
+        "Frequency":4.62,
+        "OS":"Android 7.0",
+        "Browser":"Chrome Webview 60.0.3112.107",
+        "section":"Most Common Mobile User Agents",
+        "Device":"Galaxy S8 Active"
+    },
+    {
+        "User agent":"Mozilla\/5.0 (Linux; Android 15) AppleWebKit\/537.36",
+        "Frequency":3.98,
+        "OS":"Android 15",
+        "Browser":"Android Browser",
+        "section":"Most Common Mobile User Agents",
+        "Device":null
+    },
+    {
+        "User agent":"Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/26.5.2 Mobile\/15E148 Safari\/604.1",
+        "Frequency":3.25,
+        "OS":"iOS 26.5.2",
+        "Browser":"Mobile Safari 26.5.2",
+        "section":"Most Common Mobile User Agents",
+        "Device":"iPhone"
+    },
+    {
+        "User agent":"Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/26.6 Mobile\/15E148 Safari\/604.1",
+        "Frequency":2.65,
+        "OS":"iOS 26.6",
+        "Browser":"Mobile Safari 26.6",
+        "section":"Most Common Mobile User Agents",
+        "Device":"iPhone"
+    },
+    {
+        "User agent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/30.0 Chrome\/143.0.0.0 Mobile Safari\/537.36",
+        "Frequency":2.61,
+        "OS":"Android 10",
+        "Browser":"Samsung Browser 30.0",
+        "section":"Most Common Mobile User Agents",
+        "Device":"K"
+    },
+    {
+        "User agent":"Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/18.7.5 Mobile\/15E148 Safari\/604.1",
+        "Frequency":2.03,
+        "OS":"iOS 18.7.5",
+        "Browser":"Mobile Safari 18.7.5",
+        "section":"Most Common Mobile User Agents",
+        "Device":"iPhone"
+    },
+    {
+        "User agent":"Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/26.5 Mobile\/15E148 Safari\/604.1",
+        "Frequency":1.95,
+        "OS":"iOS 26.5",
+        "Browser":"Mobile Safari 26.5",
+        "section":"Most Common Mobile User Agents",
+        "Device":"iPhone"
+    },
+    {
+        "User agent":"Mozilla\/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/18.1 Mobile\/15E148 Safari\/604.1",
+        "Frequency":1.77,
+        "OS":"iOS 18.1",
+        "Browser":"Mobile Safari 18.1",
+        "section":"Most Common Mobile User Agents",
+        "Device":"iPhone"
+    },
+    {
+        "User agent":"Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/27.0.1 Mobile\/15E148 Safari\/604.1",
+        "Frequency":1.73,
+        "OS":"iOS 27.0.1",
+        "Browser":"Mobile Safari 27.0.1",
+        "section":"Most Common Mobile User Agents",
+        "Device":"iPhone"
+    },
+    {
+        "User agent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/153.0.0.0 Mobile Safari\/537.36",
+        "Frequency":1.6,
+        "OS":"Android 10",
+        "Browser":"Chrome Mobile 153.0.0.0",
+        "section":"Most Common Mobile User Agents",
+        "Device":"K"
+    },
+    {
+        "User agent":"Mozilla\/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/17.5 Mobile\/15E148 Safari\/604.1",
+        "Frequency":1.6,
+        "OS":"iOS 17.5",
+        "Browser":"Mobile Safari 17.5",
+        "section":"Most Common Mobile User Agents",
+        "Device":"iPhone"
+    },
+    {
+        "User agent":"Mozilla\/5.0 (Linux; Android 12; Pixel 6) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/114.0.0.0 Mobile Safari\/537.36",
+        "Frequency":1.6,
+        "OS":"Android 12",
+        "Browser":"Chrome Mobile 114.0.0.0",
+        "section":"Most Common Mobile User Agents",
+        "Device":"Pixel 6"
+    },
+    {
+        "User agent":"Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/27.0 Mobile\/15E148 Safari\/604.1",
+        "Frequency":1.52,
+        "OS":"iOS 27.0",
+        "Browser":"Mobile Safari 27.0",
+        "section":"Most Common Mobile User Agents",
+        "Device":"iPhone"
+    },
+    {
+        "User agent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/151.0.0.0 Mobile Safari\/537.36",
+        "Frequency":1.46,
+        "OS":"Android 10",
+        "Browser":"Chrome Mobile 151.0.0.0",
+        "section":"Most Common Mobile User Agents",
+        "Device":"K"
+    },
+    {
+        "User agent":"Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/26.4 Mobile\/15E148 Safari\/604.1",
+        "Frequency":1.28,
+        "OS":"iOS 26.4",
+        "Browser":"Mobile Safari 26.4",
+        "section":"Most Common Mobile User Agents",
+        "Device":"iPhone"
+    },
+    {
+        "User agent":"Mozilla\/5.0 (Linux; Android 11; KFQUWI) AppleWebKit\/537.36 (KHTML, like Gecko) Silk\/152.4.10 like Chrome\/152.0.7977.140 Safari\/537.36",
+        "Frequency":29.78,
+        "OS":"Fire OS 8",
+        "Browser":"Mobile Silk 152.4.10",
+        "section":"Most Common Tablet User Agents",
+        "Device":"Fire 7 (2022)"
+    },
+    {
+        "User agent":"Mozilla\/5.0 (iPad; CPU OS 17_4 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/17.4 Mobile\/15E148 Safari\/604.1",
+        "Frequency":18.54,
+        "OS":"iPadOS 17.4",
+        "Browser":"Mobile Safari 17.4",
+        "section":"Most Common Tablet User Agents",
+        "Device":"iPad"
+    },
+    {
+        "User agent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/155.0.0.0 Safari\/537.36",
+        "Frequency":14.04,
+        "OS":"Android 10",
+        "Browser":"Chrome 155.0.0.0",
+        "section":"Most Common Tablet User Agents",
+        "Device":"K"
+    },
+    {
+        "User agent":"Mozilla\/5.0 (Android 13; Mobile; SM-T510; rv:156.0) Gecko\/156.0 Firefox\/156.0",
+        "Frequency":6.18,
+        "OS":"Android 13",
+        "Browser":"Firefox Mobile 156.0",
+        "section":"Most Common Tablet User Agents",
+        "Device":"Galaxy Tab A 10.1\" (2019)"
+    },
+    {
+        "User agent":"Mozilla\/5.0 (Windows NT 6.3; WOW64; Trident\/7.0; Touch; ASU2JS; rv:11.0) like Gecko",
+        "Frequency":5.62,
+        "OS":"Windows 8.1",
+        "Browser":"Internet Explorer 11.0",
+        "section":"Most Common Tablet User Agents",
+        "Device":null
+    },
+    {
+        "User agent":"Mozilla\/5.0 (iPad; CPU OS 26_6_0 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) CriOS\/154.0.8037.55 Mobile\/15E148 Safari\/604.1",
+        "Frequency":4.49,
+        "OS":"iPadOS 26.6.0",
+        "Browser":"Chrome Mobile iOS 154.0.8037.55",
+        "section":"Most Common Tablet User Agents",
+        "Device":"iPad"
+    },
+    {
+        "User agent":"Mozilla\/5.0 (Linux; U; en-us; KFTT Build\/IML74K) AppleWebKit\/535.19 (KHTML, like Gecko) Silk\/3.17 Safari\/535.19 Silk-Accelerated=true",
+        "Frequency":3.93,
+        "OS":"Fire OS",
+        "Browser":"Mobile Silk 3.17",
+        "section":"Most Common Tablet User Agents",
+        "Device":"Kindle Fire HD"
+    },
+    {
+        "User agent":"Mozilla\/5.0 (Linux; Android 7.0; TAB 711 4G) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/81.0.4044.138 Safari\/537.36",
+        "Frequency":3.93,
+        "OS":"Android 7.0",
+        "Browser":"Chrome 81.0.4044.138",
+        "section":"Most Common Tablet User Agents",
+        "Device":"Tab 711 4G"
+    },
+    {
+        "User agent":"Mozilla\/5.0 (iPad; CPU OS 17_7_11 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/17.14 Mobile\/15E148 Safari\/604.1",
+        "Frequency":2.25,
+        "OS":"iPadOS 17.7.11",
+        "Browser":"Mobile Safari 17.14",
+        "section":"Most Common Tablet User Agents",
+        "Device":"iPad"
+    },
+    {
+        "User agent":"Mozilla\/5.0 (Android 9.2; Mobile; ADT1061; rv:158.0) Gecko\/158.0 Firefox\/158.0",
+        "Frequency":1.69,
+        "OS":"Android 9.2",
+        "Browser":"Firefox Mobile 158.0",
+        "section":"Most Common Tablet User Agents",
+        "Device":"ADT 1061"
+    },
+    {
+        "User agent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/153.0.0.0 Safari\/537.36",
+        "Frequency":1.12,
+        "OS":"Android 10",
+        "Browser":"Chrome 153.0.0.0",
+        "section":"Most Common Tablet User Agents",
+        "Device":"K"
+    },
+    {
+        "User agent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/150.0.0.0 Safari\/537.36 EdgA\/150.0.0.0",
+        "Frequency":1.12,
+        "OS":"Android 10",
+        "Browser":"Microsoft Edge 150.0.0.0",
+        "section":"Most Common Tablet User Agents",
+        "Device":"K"
+    },
+    {
+        "User agent":"Mozilla\/5.0 (iPad; CPU OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Safari",
+        "Frequency":1.12,
+        "OS":"iPadOS 18.7",
+        "Browser":"Mobile Safari",
+        "section":"Most Common Tablet User Agents",
+        "Device":"iPad"
+    },
+    {
+        "User agent":"Mozilla\/5.0 (iPad; CPU OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Mobile\/15E148",
+        "Frequency":1.12,
+        "OS":"iPadOS 18.7",
+        "Browser":"Mobile Safari",
+        "section":"Most Common Tablet User Agents",
+        "Device":"iPad"
+    },
+    {
+        "User agent":"Mozilla\/5.0 (iPad; CPU OS 18_1 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/18.1 Mobile\/15E148 Safari\/604.1",
+        "Frequency":1.12,
+        "OS":"iPadOS 18.1",
+        "Browser":"Mobile Safari 18.1",
+        "section":"Most Common Tablet User Agents",
+        "Device":"iPad"
+    },
+    {
+        "User agent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/148.0.0.0 Safari\/537.36",
+        "Frequency":1.12,
+        "OS":"Android 10",
+        "Browser":"Chrome 148.0.0.0",
+        "section":"Most Common Tablet User Agents",
+        "Device":"K"
+    },
+    {
+        "User agent":"Mozilla\/5.0 (iPad; CPU OS 16_6 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/16.6 Mobile\/15E148 Safari\/604.1",
+        "Frequency":1.12,
+        "OS":"iPadOS 16.6",
+        "Browser":"Mobile Safari 16.6",
+        "section":"Most Common Tablet User Agents",
+        "Device":"iPad"
+    },
+    {
+        "User agent":"Mozilla\/5.0 (iPad; CPU OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/18.7.5 Mobile\/15E148 Safari\/604.1",
+        "Frequency":0.56,
+        "OS":"iPadOS 18.7.5",
+        "Browser":"Mobile Safari 18.7.5",
+        "section":"Most Common Tablet User Agents",
+        "Device":"iPad"
+    },
+    {
+        "User agent":"Mozilla\/5.0 (iPad; CPU OS 17_5_1 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/17.5 Mobile\/15E148 Safari\/604.1",
+        "Frequency":0.56,
+        "OS":"iPadOS 17.5.1",
+        "Browser":"Mobile Safari 17.5",
+        "section":"Most Common Tablet User Agents",
+        "Device":"iPad"
+    },
+    {
+        "User agent":"Mozilla\/5.0 (iPad; CPU OS 17_5 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/17.5 Mobile\/15E148 Safari\/604.1",
+        "Frequency":0.56,
+        "OS":"iPadOS 17.5",
+        "Browser":"Mobile Safari 17.5",
+        "section":"Most Common Tablet User Agents",
+        "Device":"iPad"
+    },
+    {
+        "User agent":"python-requests\/2.34.2",
+        "Frequency":85.51,
+        "OS":null,
+        "Browser":null,
+        "section":"Most Common Bot User Agents",
+        "Device":null
+    },
+    {
+        "User agent":"curl\/8.23.0",
+        "Frequency":8.97,
+        "OS":null,
+        "Browser":null,
+        "section":"Most Common Bot User Agents",
+        "Device":null
+    },
+    {
+        "User agent":"Python\/3.14 aiohttp\/3.13.2",
+        "Frequency":1.18,
+        "OS":null,
+        "Browser":null,
+        "section":"Most Common Bot User Agents",
+        "Device":null
+    },
+    {
+        "User agent":"axios\/1.20.0",
+        "Frequency":0.91,
+        "OS":null,
+        "Browser":null,
+        "section":"Most Common Bot User Agents",
+        "Device":null
+    },
+    {
+        "User agent":"Mozilla\/5.0 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)",
+        "Frequency":0.75,
+        "OS":null,
+        "Browser":null,
+        "section":"Most Common Bot User Agents",
+        "Device":null
+    },
+    {
+        "User agent":"Mozilla\/5.0 (Linux; Android 7.0;) AppleWebKit\/537.36 (HTML, like Gecko) Mobile Safari\/537.36 (compatible; PetalBot;+https:\/\/webmaster.petalsearch.com\/site\/petalbot)",
+        "Frequency":0.36,
+        "OS":null,
+        "Browser":null,
+        "section":"Most Common Bot User Agents",
+        "Device":null
+    },
+    {
+        "User agent":"GuzzleHttp\/7",
+        "Frequency":0.35,
+        "OS":null,
+        "Browser":null,
+        "section":"Most Common Bot User Agents",
+        "Device":null
+    },
+    {
+        "User agent":"Mozilla\/5.0 AppleWebKit\/537.36 (KHTML, like Gecko; compatible; ClaudeBot\/1.0; +claudebot@anthropic.com)",
+        "Frequency":0.29,
+        "OS":null,
+        "Browser":null,
+        "section":"Most Common Bot User Agents",
+        "Device":null
+    },
+    {
+        "User agent":"Mozilla\/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; QQDownload 732; .NET4.0C; .NET4.0E)",
+        "Frequency":0.22,
+        "OS":null,
+        "Browser":null,
+        "section":"Most Common Bot User Agents",
+        "Device":null
+    },
+    {
+        "User agent":"HomeAssistant\/2026.10.1 aiohttp\/3.14.4 Python\/3.14",
+        "Frequency":0.18,
+        "OS":null,
+        "Browser":null,
+        "section":"Most Common Bot User Agents",
+        "Device":null
+    },
+    {
+        "User agent":"Mozilla\/5.0 AppleWebKit\/537.36 (KHTML, like Gecko); compatible; ChatGPT-User\/1.0; +https:\/\/openai.com\/bot",
+        "Frequency":0.15,
+        "OS":null,
+        "Browser":null,
+        "section":"Most Common Bot User Agents",
+        "Device":null
+    },
+    {
+        "User agent":"Software Security Research\/1.0 (+https:\/\/goose.softsec.ruhr-uni-bochum.de)",
+        "Frequency":0.14,
+        "OS":null,
+        "Browser":null,
+        "section":"Most Common Bot User Agents",
+        "Device":null
+    },
+    {
+        "User agent":"libredtail-http",
+        "Frequency":0.14,
+        "OS":null,
+        "Browser":null,
+        "section":"Most Common Bot User Agents",
+        "Device":null
+    },
+    {
+        "User agent":"Googlebot\/2.1 (+http:\/\/www.google.com\/bot.html)",
+        "Frequency":0.13,
+        "OS":null,
+        "Browser":null,
+        "section":"Most Common Bot User Agents",
+        "Device":null
+    },
+    {
+        "User agent":"Mozilla\/5.0 (Linux; Android 6.0.1; Nexus 5X Build\/MMB29P) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/131.0.0.0 Mobile Safari\/537.36 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)",
+        "Frequency":0.13,
+        "OS":null,
+        "Browser":null,
+        "section":"Most Common Bot User Agents",
+        "Device":null
+    },
+    {
+        "User agent":"Mozilla\/5.0 (compatible; Baiduspider\/2.0; +http:\/\/www.baidu.com\/search\/spider.html)",
+        "Frequency":0.12,
+        "OS":null,
+        "Browser":null,
+        "section":"Most Common Bot User Agents",
+        "Device":null
+    },
+    {
+        "User agent":"Mozilla\/5.0 (compatible; DeepSeekBot\/1.0; +https:\/\/www.deepseek.com\/)",
+        "Frequency":0.12,
+        "OS":null,
+        "Browser":null,
+        "section":"Most Common Bot User Agents",
+        "Device":null
+    },
+    {
+        "User agent":"Mozilla\/5.0 (compatible; Meta-ExternalFetcher\/1.0; +https:\/\/developers.facebook.com\/docs\/sharing\/webmasters\/crawler)",
+        "Frequency":0.12,
+        "OS":null,
+        "Browser":null,
+        "section":"Most Common Bot User Agents",
+        "Device":null
+    },
+    {
+        "User agent":"Mozilla\/5.0 (compatible; Kimi-SearchBot\/1.0; +https:\/\/kimi.ai\/)",
+        "Frequency":0.12,
+        "OS":null,
+        "Browser":null,
+        "section":"Most Common Bot User Agents",
+        "Device":null
+    },
+    {
+        "User agent":"Mozilla\/5.0 AppleWebKit\/537.36 (KHTML, like Gecko); compatible; OAI-AdsBot\/1.0; +https:\/\/openai.com\/adsbot",
+        "Frequency":0.12,
+        "OS":null,
+        "Browser":null,
+        "section":"Most Common Bot User Agents",
+        "Device":null
+    }
+]
